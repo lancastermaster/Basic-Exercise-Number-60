@@ -1,0 +1,13 @@
+E:\BasicExercise60_Matrix\bin\Debug\netcoreapp3.1\BasicExercise60_Matrix.exe
+E:\BasicExercise60_Matrix\bin\Debug\netcoreapp3.1\BasicExercise60_Matrix.deps.json
+E:\BasicExercise60_Matrix\bin\Debug\netcoreapp3.1\BasicExercise60_Matrix.runtimeconfig.json
+E:\BasicExercise60_Matrix\bin\Debug\netcoreapp3.1\BasicExercise60_Matrix.runtimeconfig.dev.json
+E:\BasicExercise60_Matrix\bin\Debug\netcoreapp3.1\BasicExercise60_Matrix.dll
+E:\BasicExercise60_Matrix\bin\Debug\netcoreapp3.1\BasicExercise60_Matrix.pdb
+E:\BasicExercise60_Matrix\obj\Debug\netcoreapp3.1\BasicExercise60_Matrix.csprojAssemblyReference.cache
+E:\BasicExercise60_Matrix\obj\Debug\netcoreapp3.1\BasicExercise60_Matrix.AssemblyInfoInputs.cache
+E:\BasicExercise60_Matrix\obj\Debug\netcoreapp3.1\BasicExercise60_Matrix.AssemblyInfo.cs
+E:\BasicExercise60_Matrix\obj\Debug\netcoreapp3.1\BasicExercise60_Matrix.csproj.CoreCompileInputs.cache
+E:\BasicExercise60_Matrix\obj\Debug\netcoreapp3.1\BasicExercise60_Matrix.dll
+E:\BasicExercise60_Matrix\obj\Debug\netcoreapp3.1\BasicExercise60_Matrix.pdb
+E:\BasicExercise60_Matrix\obj\Debug\netcoreapp3.1\BasicExercise60_Matrix.genruntimeconfig.cache
